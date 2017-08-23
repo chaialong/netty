@@ -1,4 +1,4 @@
-package ex1;
+package chapter1.ex1;
 
 import org.apache.commons.io.IOUtils;
 
